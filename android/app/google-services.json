@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "335721325487",
+    "firebase_url": "https://fluttercodelab-dc7aa.firebaseio.com",
+    "project_id": "fluttercodelab-dc7aa",
+    "storage_bucket": "fluttercodelab-dc7aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335721325487:android:9df75396287b2011",
+        "android_client_info": {
+          "package_name": "com.example.flutterlivecoding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335721325487-io504jl80b79pn0mqigvhe9o04703lpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArXWlwdGsg2KnZEcMuusPCt5LCyrSkOb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
